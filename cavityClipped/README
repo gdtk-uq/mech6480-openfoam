@@ -1,0 +1,7 @@
+Use this file in conjunction with OpenFOAM tutorials files:
+
+  $ cp -r $FOAM_TUTORIALS/incompressible/icoFoam/cavity/cavity/* .
+
+Then edit 0/p and 0/U to match BCs in cavityClipped.lua.
+
+
